@@ -1,8 +1,8 @@
-- 👋 Hi there , I’m TarunGuruvelli
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning 'Python'
-- 💞️ I’m looking to collaborate on UI/UX designing
-- 📫 How to reach me linkden (Tarun Guruvelli) , Discord (SevenPrime#1214) , twitter (Guruvelli Tarun)
+- Hi there , I’m TarunGuruvelli
+- I’m interested in Machine Learning
+- I’m currently learning Supervised Learning
+- I’m looking to collaborate on Machine learning projects
+- How to reach me linkden (Tarun Guruvelli)
 
 <!---
 Guruvellitarun/Guruvellitarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
